@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Piotr Daniel — aka [@piotr-daniel](https://github.com/piotr-daniel)
 
 I'm a Python developer and data analyst passionate about building elegant tools, APIs, and dashboards that make information accessible and learning smoother.  
-Currently building [NibblePy](https://github.com/piotr-daniel/nibblepy) 🐍 — a lightweight Python snippet API for learners.
+Currently building [NibblePy](https://github.com/NibblePy/nibblepy-api) 🐍 — a lightweight Python snippet API for learners.
 
 ---
 
@@ -16,13 +16,13 @@ Currently building [NibblePy](https://github.com/piotr-daniel/nibblepy) 🐍 —
 
 ## 📌 Featured Project
 
-### 🔗 [NibblePy — Python Snippet API](https://github.com/piotr-daniel/nibblepy)
+### 🔗 [NibblePy — Python Snippet API](https://github.com/NibblePy/nibblepy-api)
 
 A fast, clean REST API delivering beginner-friendly Python code snippets with explanations and related topics.  
 Built with FastAPI — open for contributions!
 
 <!-- Add a preview image if you have one: 
-![NibblePy](https://github.com/piotr-daniel/nibblepy/raw/main/preview.png)
+![NibblePy](https://github.com/NibblePy/nibblepy-api/raw/main/preview.png)
 -->
 
 ---
@@ -35,7 +35,7 @@ Built with FastAPI — open for contributions!
 
 ## 🤝 Let's Collaborate
 
-- 💬 Got an idea or want to contribute to NibblePy? Check out [issues](https://github.com/piotr-daniel/nibblepy/issues)
+- 💬 Got an idea or want to contribute to NibblePy? Check out [issues](https://github.com/NibblePy/nibblepy-api/issues)
 - 🌱 Open to collaborations on productive tools, APIs, data projects, and open source utilities
 - 📫 Reach me at **piotr.daniel4@gmail.com**
 

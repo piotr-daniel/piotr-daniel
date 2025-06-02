@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Piotr Daniel — aka [@piotr-daniel](https://github.com/piotr-daniel)
+# 👋 Hi, I'm Piotr Daniel
 
 I'm a Python developer and data analyst passionate about building elegant tools, APIs, and dashboards that make information accessible and learning smoother.  
 Currently building [NibblePy](https://github.com/NibblePy/nibblepy-api) 🐍 — a lightweight Python snippet API for learners.

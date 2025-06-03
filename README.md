@@ -1,22 +1,23 @@
-# 👋 Hi, I'm Piotr Daniel
+# Hi, I'm Piotr Daniel
 
 I'm a Python developer and data analyst passionate about building elegant tools, APIs, and dashboards that make information accessible and learning smoother.  
 Currently building [NibblePy](https://github.com/NibblePy/nibblepy-api) 🐍 — a lightweight Python snippet API for learners.
 
 ---
 
-## 🧠 What I Love Working On
+## What I Love Working On
 
 - 🧪 **FastAPI** and **Django** projects — structured, well-documented, and testable  
 - 📊 **Data analytics** with Python — from cleaning to visualization  
-- 🛠️ Developer tools that reduce complexity and help others learn faster  
-- 🎨 Automating boring stuff and anything that's fun  
+- 🛠️ **Developer** tools that reduce complexity and help others learn faster  
+- 🧠 **Automating** boring stuff, problems solving, puzzles & riddles
+- 🧰 **Making things work** and anything that's fun  
 
 ---
 
-## 📌 Featured Project
+## Featured Project
 
-### 🔗 [NibblePy — Python Snippet API](https://github.com/NibblePy/nibblepy-api)
+### [NibblePy — Python Snippet API](https://github.com/NibblePy/nibblepy-api)
 
 A fast, clean REST API delivering beginner-friendly Python code snippets with explanations and related topics.  
 Built with FastAPI — open for contributions!
@@ -27,13 +28,13 @@ Built with FastAPI — open for contributions!
 
 ---
 
-## 🧰 Tools & Tech
+## Tools & Tech
 
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,postgresql,sqlite,git,github,pytest,pandas,numpy,matplotlib,dash" alt="Tech stack" />
 
 ---
 
-## 🤝 Let's Collaborate
+## Let's Collaborate
 
 - 💬 Got an idea or want to contribute to NibblePy? Check out [issues](https://github.com/NibblePy/nibblepy-api/issues)
 - 🌱 Open to collaborations on productive tools, APIs, data projects, and open source utilities

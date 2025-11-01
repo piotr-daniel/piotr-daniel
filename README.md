@@ -1,7 +1,6 @@
-# Hi, I'm Piotr Daniel
+# Hello!
 
-I'm a Python developer and data analyst passionate about building elegant tools, APIs, and dashboards that make information accessible and learning smoother.  
-Currently building [NibblePy](https://github.com/NibblePy/nibblepy-api) 🐍 — a lightweight Python snippet API for learners.
+I'm currently building [Heartbeat Server](https://github.com/piotr-daniel/heartbeat) ❤️ — a living, breathing FastAPI app that tracks its own life.
 
 ---
 
